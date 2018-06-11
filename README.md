@@ -1,1 +1,1 @@
-# temmo-cli
+# teemo-cli
